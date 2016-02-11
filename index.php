@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <link rel="stylesheet" type="text/css" href="kak_oces.css">
+    <meta charset="UTF-8">
     <title>Naslov</title>
 </head>
 
